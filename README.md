@@ -128,8 +128,7 @@ Through these tasks, I am developing practical experience in:
 | ------- | ----------- |
 | Task 01 | ✅ Completed |
 | Task 02 | ✅ Completed |
-| Task 03 | 🔄 Upcoming |
-
+| Task 03 | ✅ Completed |
 ---
 
 ## Author
