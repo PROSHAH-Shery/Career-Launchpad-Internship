@@ -5,25 +5,24 @@ This task covers time series forecasting and machine learning regression techniq
 ## Parts
 
 ### Part A - Time Series Forecasting
-- Historical stock price analysis
 - Data preprocessing
+- Time series visualization
 - Stationarity testing using ADF
 - Differencing
 - ACF and PACF analysis
-- ARIMA(0,1,0)
-- 30-day stock price forecasting
+- ARIMA model
+- 30-day forecasting
 
-### Part B - Regression Model Comparison
+### Part B - Machine Learning Model Comparison
+- Feature and target selection
 - Data preprocessing
 - Train-test split
 - Linear Regression
 - Ridge Regression
 - Decision Tree Regression
 - Random Forest Regression
-- MAE, RMSE and R² evaluation
+- Model evaluation using MAE, RMSE and R²
 - 5-Fold Cross-Validation
-- Actual vs Predicted visualization
-- Prediction error analysis
 
 ## Tools & Libraries
 
@@ -34,3 +33,8 @@ This task covers time series forecasting and machine learning regression techniq
 - Matplotlib
 - Scikit-learn
 - Statsmodels
+
+## Files
+
+- `week4_partA_forecasting.ipynb` — Time Series Forecasting
+- `week4_partB_regression_model_comparison.ipynb` — Regression Model Comparison
